@@ -1,0 +1,103 @@
+{
+  "users": {
+    "6283811034750@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "628124145220@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6283133675824@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6282225421930@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6283168004413@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "60164446057@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6283108576050@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6283819535521@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285746061171@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6287895687307@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6283811034750@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363040089594225@g.us": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6283168004413@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6283819535521@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6596782113-1323612696@g.us": {
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {
+    "math": [],
+    "family100": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakbendera": [],
+    "siapaaku": [],
+    "tebakkalimat": [],
+    "caklontong": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebaklirik": [],
+    "tebaktebakan": []
+  },
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "6283811034750@s.whatsapp.net": {
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    }
+  }
+}
